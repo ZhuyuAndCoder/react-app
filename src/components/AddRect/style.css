@@ -1,0 +1,15 @@
+.add{
+    fill:#ffffff;
+    stroke-width:1;
+    stroke:#000000;
+    stroke-dasharray:10,5;
+    color:#000;
+    font-size: 14px;
+    cursor: pointer;
+}
+.add:hover{
+    stroke:#666;
+}
+.add:active{
+    opacity:.8;
+}
